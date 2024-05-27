@@ -26,16 +26,16 @@ export default function App() {
             <h1 className='text-4xl text-pink-700 font-medium mt-3'> Surname</h1>
             <hr className='w-[650px] h-[6px] mt-9 font-bold bg-pink-700' />
             <h3 className='text-xl mt-8 mb-8'>Date</h3>
-            <p>[Recipient Name]</p>
+            <p>Recipient Name</p>
             <div className='flex flex-row'>
               <div className=''>
-                <p>[Title]</p>
-                <p>[Company]</p>
+                <p>Title</p>
+                <p>Company</p>
               </div>
 
               <div className='ml-72 '>
-                <p>[Recipient Street Address] </p>
-                <p>[Recipient City, ST Zip]</p></div>
+                <p>Recipient Street Address </p>
+                <p>Recipient City, ST Zip</p></div>
             </div>
 
 
